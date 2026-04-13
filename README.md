@@ -23,7 +23,7 @@
 ### 🚀 About Me
 
 - 🔭 **Currently Building:** SaaS platforms and full-stack web applications
-- 🌱 **Learning:** NestJS, PostgreSQL, DevOps (Docker, CI/CD pipelines)
+- 🌱 **Learning:** NextJS, PostgreSQL, DevOps (Docker, CI/CD pipelines)
 - 🏗️ **Focus Areas:** Full-stack product development, API design, performance optimization
 - 💡 **Philosophy:** Write code that scales, ships fast, and solves real problems
 - 💬 **Ask me about:** JavaScript/TypeScript • React/Next.js • Node.js/Express • React Native • API Development
@@ -34,8 +34,6 @@
 ### 🏆 Projects & Experience
 
 - 🏢 **SaaS Platforms** — Worked on multi-tenant applications with role-based access control and real-time dashboards
-- 🏠 **Real Estate Platform** — Built property management system with advanced search, map integrations, and booking workflows
-- 🎮 **Gaming Platform** — Developed interactive gaming experience with real-time features and leaderboards
 - 📱 **QR Code Systems** — Built dynamic QR generation, tracking, and analytics solutions
 - ⚡ **Performance Improvements** — Optimized production applications using caching and best practices
 
