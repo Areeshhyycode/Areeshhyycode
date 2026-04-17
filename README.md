@@ -67,12 +67,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Areeshhyycode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Areeshhyycode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeshhyycode&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeshhyycode&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Areeshhyycode&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
